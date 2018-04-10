@@ -33,9 +33,13 @@ https://gateway.ipfs.io/ipfs/"file-hash"
 Replace "file-hash" with the following:
 
 QmPRrT5HW1JKvPjgrjCg2LDsJvMx6e43NAnt5zfq7AXJbF
+
 QmZgx1sCWarMySYDb4tHcXjUmqrxKQFCW2qikQwgibuJ61
+
 QmP9eSk6dMDMd9PSBjer2DBtZCMmDEWABacqXPieHmJ2JL
+
 QmWdztP5UEB95wzuKoDDBZ9Q8fdjhv7T8LTEw3BTrMeoRJ
+
 QmPQ7xmzZEycpSYhXG6AwXbAm1NK3XNHJN6LjZij8CV8F4
 
 ### What's next after this?
