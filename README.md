@@ -11,14 +11,14 @@ These are companies registered to Cloud Security Alliance (CSA) STAR Registry
 
 ### What is this?
 
-Its just a simple Proof of Concept on how the Cloud Security Alliance and other similar organizations can utilize a decentralized storage file system for publishing audit/self-attestation reports of members.
+Its a simple Proof of Concept (PoC) on how the Cloud Security Alliance and other similar organizations can utilize a decentralized storage file system for publishing audit/self-attestation reports of its members.
 
 I plan to grab all the names of the Cloud Service Providers (CSPs) that registered to CSA's STAR Registry and host it here on this repo.  View the current STAR Registry here: [CSA STAR](https://cloudsecurityalliance.org/star/#_registry)
 
 
 ### Why?
 
-So I can use it as data source for my test IPFS Node server.
+So I can use it as data source for my test IPFS gateway server running in the cloud.
 
 ### What is IPFS?
 
