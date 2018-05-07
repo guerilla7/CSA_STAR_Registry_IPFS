@@ -1,7 +1,5 @@
 # CSA STAR Registry IPFS Mashup
-Companies registered with CSA STAR Registry https://cloudsecurityalliance.org/star/#_registry
-
-These are companies registered to Cloud Security Alliance (CSA) STAR Registry
+These are companies registered to Cloud Security Alliance (CSA) STAR Registry https://cloudsecurityalliance.org/star/#_registry
 
 ![CSA STAR Logo](https://blogs.forcepoint.com/sites/default/files/styles/282x211/public/insights/csa-star.jpg?itok=gAkWz1Hn)
 
