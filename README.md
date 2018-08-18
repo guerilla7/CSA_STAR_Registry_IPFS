@@ -1,3 +1,4 @@
+# 08/18/2018: My IPFS Server is currently off-line while I make some architectural decisions.
 # CSA STAR Registry IPFS Mashup
 These are companies registered to Cloud Security Alliance (CSA) STAR Registry https://cloudsecurityalliance.org/star/#_registry
 
